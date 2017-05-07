@@ -31,4 +31,12 @@
         tools:layout_editor_absoluteX="118dp"
         tools:layout_editor_absoluteY="299dp" />
 
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="shaina"
+        tools:layout_editor_absoluteX="112dp"
+        tools:layout_editor_absoluteY="387dp" />
+
 </android.support.constraint.ConstraintLayout>
